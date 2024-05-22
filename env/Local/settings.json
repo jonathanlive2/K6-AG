@@ -1,0 +1,16 @@
+{
+    "SETTINGS": {    
+      "baseUrl": "https://api-ag-hzykoji3kq-uc.a.run.app/api"
+    },
+    "TEST_FILTERS": {
+      "enabled": false,
+      "startsWith": null,
+      "endsWith": null,
+      "contains": null,
+      "regex": null
+    },
+    "ENVIRONMENT": {
+      "execution": "local",
+      "optionsSet": "load"
+    }
+  }
